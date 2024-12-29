@@ -1,0 +1,17 @@
+#EXTM3U
+ 
+#EXTINF:0 tvg-country="US" tvg-id="RedBull" tvg-logo="https://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="JustVogueTv.de" tvg-name="JustVogueTv.de" tvg-logo="https://static.wixstatic.com/media/796ff4_3f57885677e44398a2021663b2c01314~mv2.png/v1/fill/w_267,h_249,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/just%20vogue%20kont.png" status="timeout" group-title="Fashion",Just Vogue Tv
+https://tivi191.ozelip.com:3873/stream/play.m3u8
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="MotorvisionTV.de" status="timeout" group-title="Sport",Motorvision TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:0 tvg-id="QVCJapan" tvg-name="QVCJapan" tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/ac/Logo_QVC_2019.svg/1920px-Logo_QVC_2019.svg.png" group-title="Shopping",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:0 tvg-id="CosmosTv" tvg-name="CosmosTv" tvg-country="AR" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Music",Cosmos Tv Argentina
+https://videostream.shockmedia.com.ar:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="DashTest" tvg-name="DashTest" group-title="Test",DASH MPEG Test (with subtitles)
+http://dash.edgesuite.net/akamai/test/caption_test/ElephantsDream/elephants_dream_480p_heaac5_1.mpd
+
